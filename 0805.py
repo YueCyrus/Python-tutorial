@@ -1,4 +1,4 @@
-print("hello world")
+print("hello world") # 字符串：表示一段文本
 
 result1 = 2 * 3
 print(result1)
